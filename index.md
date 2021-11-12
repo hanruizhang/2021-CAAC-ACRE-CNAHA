@@ -1,7 +1,6 @@
 # Joint Symposium ePosters (11/12/2021-11/15/2021)
-<div> 
-  <img src="{{ '/CAAC-ACRE-CNAHA.png' | absolute_url }}" alt="Banner">
-</div>
+
+![Banner](/CAAC-ACRE-CNAHA.png)
 
 
 ### Registered attendees, please:
