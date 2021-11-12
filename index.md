@@ -1,4 +1,4 @@
-# 2021 CAAC-ACRE-CNAHA Joint Symposium ePosters (11/12/2021-11/15/2021)
+# Joint Symposium ePosters (11/12/2021-11/15/2021)
 
 ### Registered attendees, please:
 * Use [this link](https://drive.google.com/drive/folders/1WvXVpRDJVo-DctaEkfnqUXAZIa2Vwe0kre-OSpFlvqLii1_9Q7lfiQPD-MHJ8Yg7_HTinAJf?usp=sharing) to view all the ePosters, or
