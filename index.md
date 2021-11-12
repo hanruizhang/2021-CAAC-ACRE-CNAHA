@@ -5,7 +5,7 @@
 
 ### Registered attendees, please:
 * Use [this link](https://drive.google.com/drive/folders/1WvXVpRDJVo-DctaEkfnqUXAZIa2Vwe0kre-OSpFlvqLii1_9Q7lfiQPD-MHJ8Yg7_HTinAJf?usp=sharing) to view all the ePosters, or
-* Use the links below to vie individual ePosters.
+* Use the links below to view individual ePosters.
 
 ### Other Notices:
 * The ePosters are for registered attendees to view only. Please do not duplicate, share or post unpublished data. 
