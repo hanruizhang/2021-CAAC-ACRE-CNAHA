@@ -1,7 +1,5 @@
-# Joint Symposium ePosters (11/12/2021-11/15/2021)
-
 ![Banner](/CAAC-ACRE-CNAHA.png)
-
+# Joint Symposium ePosters (11/12/2021-11/15/2021)
 
 ### Registered attendees, please:
 * Use [this link](https://drive.google.com/drive/folders/1WvXVpRDJVo-DctaEkfnqUXAZIa2Vwe0kre-OSpFlvqLii1_9Q7lfiQPD-MHJ8Yg7_HTinAJf?usp=sharing) to view all the ePosters, or
@@ -9,7 +7,7 @@
 
 ### Other Notices:
 * The ePosters are for registered attendees to view only. Please do not duplicate, share or post unpublished data. 
-* If you registered on or after 11/12/2021, we might not have a chance to give you access to the ePosters; or if you have problems accesing the ePosters, please submit requests for access when prompted or email Dr. Hanrui Zhang at hz2418@cumc.columbia.edu. 
+* If you registered on or after 11/12/2021, we might not have the chance to give you access to the ePosters; or if you have problems accesing the ePosters, please submit requests for access when prompted or email Dr. Hanrui Zhang at hz2418@cumc.columbia.edu. 
 
 
 | Presenting Authors      | Affiliations     | Abstract Title    |
